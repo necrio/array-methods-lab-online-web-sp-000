@@ -1,7 +1,6 @@
 def using_include(array, element)
-cats = ["lil' bub", "grumpy cat", "Maru"]
-cats.include?("Maru")
-cats.include?("Bob")
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
+array.include?
 end
 
 def using_sort(array)
